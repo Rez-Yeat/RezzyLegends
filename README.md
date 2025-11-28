@@ -10,7 +10,7 @@ A modern Dragon Ball Legends–style <strong>summon simulator</strong> built wit
 </p>
 
 <p align="center">
-  <a href="https://github.com/Rez-Yeat/GodkuApp/stargazers"><img src="[https://img.shields.io/github/stars/Rez-Yeat/GodkuApp?style=for-the-badge](https://chatgpt.com/backend-api/estuary/content?id=file_00000000c1e871f494dd575c6afddefa&ts=490101&p=fs&cid=1&sig=d21dfad152e9c9ddadce7b3dffbb91a2449a7b3e4e3589f6a7c2df0e9a4d33de&v=0)"></a>
+  <a href="https://github.com/Rez-Yeat/GodkuApp/stargazers"><img src="https://lastfm.freetls.fastly.net/i/u/ar0/62a7829b0058ad1c2e7d74bc1fa42e47.jpg"></a>
   <a href="https://github.com/Rez-Yeat/GodkuApp/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Rez-Yeat/GodkuApp?style=for-the-badge"></a>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white">
