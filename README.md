@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/3Y0wJ0p.png" width="160" style="border-radius: 12px;">
+  <img src="https://lastfm.freetls.fastly.net/i/u/ar0/62a7829b0058ad1c2e7d74bc1fa42e47.jpg" width="160" style="border-radius: 12px;">
 </p>
 
 <h1 align="center">Godku — DBL Summon Simulator</h1>
@@ -10,7 +10,7 @@ A modern Dragon Ball Legends–style <strong>summon simulator</strong> built wit
 </p>
 
 <p align="center">
-  <a href="https://github.com/Rez-Yeat/GodkuApp/stargazers"><img src="https://lastfm.freetls.fastly.net/i/u/ar0/62a7829b0058ad1c2e7d74bc1fa42e47.jpg"></a>
+  <a href="https://github.com/Rez-Yeat/GodkuApp/stargazers"><img src="https://img.shields.io/github/stars/Rez-Yeat/GodkuApp?style=for-the-badge"></a>
   <a href="https://github.com/Rez-Yeat/GodkuApp/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Rez-Yeat/GodkuApp?style=for-the-badge"></a>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white">
