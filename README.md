@@ -17,7 +17,7 @@ Smooth animations • Clean UI • Hype summon moments • Built for fans
   </a>
 
   <a href="https://github.com/Rez-Yeat/RezzyLegends/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/license-custom%20(all%20rights%20reserved)-red?style=for-the-badge">
+    <img src="https://img.shields.io/badge/license-custom%20all%20rights%20reserved-red?style=for-the-badge">
   </a>
 
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
