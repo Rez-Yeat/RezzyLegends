@@ -94,3 +94,10 @@ The app includes:
 ```bash
 git clone https://github.com/Rez-Yeat/RezzyLegends.git
 cd RezzyLegends
+
+# Socials
+https://discord.gg/9DcUFCfBxD
+https://github.com/Rez-Yeat
+https://www.youtube.com/@Rez_GB
+https://x.com/zreihhh
+https://www.instagram.com/zreihh?igsh=dXdxZmx1ODY5ZXAz
