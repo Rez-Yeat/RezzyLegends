@@ -18,7 +18,7 @@ A modern Dragon Ball Legends–style <strong>summon simulator</strong> built wit
 
 ---
 
-#  About Godku
+#  About Rezzy Legends
 
 Rezzy Legends is a standalone **Dragon Ball Legends Summon Simulator** designed to recreate the excitement of pulling:
 
