@@ -13,7 +13,7 @@ Smooth animations • Clean UI • Hype summon moments • Built for fans
 
 <p align="center">
   <a href="https://github.com/Rez-Yeat/RezzyLegends/stargazers">
-    <img src="https://img.shields.io/github/stars/torvalds/linux">
+    <img src="https://img.shields.io/github/stars/Rez-Yeat/RezzyLegends">
   </a>
 
   <a href="https://github.com/Rez-Yeat/RezzyLegends/blob/main/LICENSE">
