@@ -1,4 +1,3 @@
-# ```md
 
 <p align="center">
   <img src="https://lastfm.freetls.fastly.net/i/u/ar0/62a7829b0058ad1c2e7d74bc1fa42e47.jpg" width="160">
@@ -170,4 +169,3 @@ https://www.instagram.com/zreihh
 <p align="center">
 Built with caffeine, questionable decisions, and "one more feature won't hurt."
 </p>
-```
