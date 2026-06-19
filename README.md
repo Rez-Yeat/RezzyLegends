@@ -128,6 +128,34 @@ This project is mainly being built for fun, learning, and creating the most comp
 
 ---
 
+---
+
+## Development
+
+| Buttons/Tabs    |     %    |
+| --------------- | ---------|
+| Main Menu       |   25%    |
+| Present         |   80%    |
+| Loading Screens |   50%    |
+| News            |  100%    |
+| Characters      |    0%    |
+| Events          |    0%    |
+| Missions        |    0%    |
+| Summons         |   65%    |
+| ToP             |    0%    |
+| PvP             |    0%    |
+| Story           |    0%    |
+| Guilds          |    0%    |
+| Train           |    0%    |
+| Friends         |    0%    |
+| Item            |    0%    |
+| Co-Op           |    0%    |
+| Shop            |    0%    |
+| --------------- | -------- |
+
+---
+
+
 ## Getting Started
 
 ### Clone Repository
