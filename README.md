@@ -2,7 +2,7 @@
   <img src="https://lastfm.freetls.fastly.net/i/u/ar0/62a7829b0058ad1c2e7d74bc1fa42e47.jpg" width="160" style="border-radius: 12px;">
 </p>
 
-<h1 align="center">Godku — DBL Summon Simulator</h1>
+<h1 align="center">Rezzy Legends — DBL Summon Simulator(Sandbox)</h1>
 
 <p align="center">
 A modern Dragon Ball Legends–style <strong>summon simulator</strong> built with <strong>Kotlin</strong> and <strong>Jetpack Compose</strong>.
@@ -20,24 +20,31 @@ A modern Dragon Ball Legends–style <strong>summon simulator</strong> built wit
 
 #  About Godku
 
-Godku is a standalone **Dragon Ball Legends Summon Simulator** designed to recreate the excitement of pulling:
+Rezzy Legends is a standalone **Dragon Ball Legends Summon Simulator** designed to recreate the excitement of pulling:
 
+- **LEGEND Units**
 - **ULTRA Units**
 - **LL Units**
-- **SPARKING**
-- **EXTREME**
-- **HERO**
+- **SPARKING Units**
+- **EXTREME Units**
+- **HERO Units**
 - And future custom rarities
 
 The app includes:
  
--  Multi-banner support  
+-  Multi-banner support
+-  Custom Events/Banners/Characters and many more 
 -  Rarity glow effects  
 -  Summon history  
 -  Profile & stats  
 -  Daily rewards  
--  Tasks & missions  
--  Future planned features: clans, PvP (possibly), events, summon animations  and many more.  
+-  Tasks & missions
+-  Main Menu
+-  Friends System
+-  Realistic DBL style
+-  Older UI
+-  Custom special events????
+-  Future planned features: clans, PvP (possibly), events, summon animations and many more.  
 
 ---
 
@@ -60,9 +67,12 @@ The app includes:
 
 ##  Tasks & Missions
 - Daily tasks  
-- Weekly tasks  
+- Weekly tasks
+- Monthly tasks
+- Yearly tasks  
 - Long-term achievements  
-- CC rewards  
+- CC rewards
+- Various items reward  
 
 ##  Tech Stack
 - **Kotlin**
@@ -82,5 +92,5 @@ The app includes:
 ### Clone the repo
 
 ```bash
-git clone https://github.com/Rez-Yeat/GodkuApp.git
-cd GodkuApp
+git clone https://github.com/Rez-Yeat/RezzyLegends.git
+cd RezzyLegends
