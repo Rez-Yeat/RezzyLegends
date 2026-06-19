@@ -158,22 +158,11 @@ This project is mainly being built for fun, learning, and creating the most comp
 
 ## Getting Started
 
-### Clone Repository
+### Downloading APK
 
 ```bash
-git clone https://github.com/Rez-Yeat/RezzyLegends.git
-cd RezzyLegends
+Soon
 ```
-
-### Open Project
-
-Open the project in Android Studio and run:
-
-```bash
-./gradlew build
-```
-
----
 
 ## Socials
 
