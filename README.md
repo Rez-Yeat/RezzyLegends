@@ -134,14 +134,14 @@ This project is mainly being built for fun, learning, and creating the most comp
 
 | Buttons/Tabs    |     %    |
 | --------------- | ---------|
-| Main Menu       |   25%    |
-| Present         |   80%    |
-| Loading Screens |   50%    |
+| Main Menu       |   35%    |
+| Present         |   90%    |
+| Loading Screens |   70%    |
 | News            |  100%    |
-| Characters      |    0%    |
+| Characters      |    50%   |
 | Events          |    0%    |
 | Missions        |    0%    |
-| Summons         |   65%    |
+| Summons         |   70%    |
 | ToP             |    0%    |
 | PvP             |    0%    |
 | Story           |    0%    |
