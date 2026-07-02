@@ -134,23 +134,23 @@ This project is mainly being built for fun, learning, and creating the most comp
 
 | Buttons/Tabs    |     %    |
 | --------------- | ---------|
-| Main Menu       |   35%    |
-| Present         |   90%    |
-| Loading Screens |   70%    |
+| Main Menu       |   100%   |
+| Present         |   100%   |
+| Loading Screens |   100%   |
 | News            |  100%    |
-| Characters      |    50%   |
-| Events          |    0%    |
-| Missions        |    0%    |
-| Summons         |   70%    |
+| Characters      |    100%  |
+| Events          |    100%  |
+| Missions        |    100%  |
+| Summons         |   100%   |
 | ToP             |    0%    |
 | PvP             |    0%    |
-| Story           |    0%    |
+| Story           |    100%  |
 | Guilds          |    0%    |
 | Train           |    0%    |
 | Friends         |    0%    |
 | Item            |    0%    |
 | Co-Op           |    0%    |
-| Shop            |    0%    |
+| Shop            |    100%  |
 | --------------- | -------- |
 
 ---
